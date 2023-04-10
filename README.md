@@ -1,3 +1,5 @@
+# Simple-Go-Server
+
 It is a simple GO server Programm which prints out following outputs with following commands.
 1. localhost:8080  -> It will Open a static website with a text "Single Page Website"
 2. localhost:8080/greet -> It will print "Hello viewer" on the web page
