@@ -17,6 +17,7 @@ jobs:
 
     - name: Build and test
       run: |
+        go mod init
         go build -v
         go test -v ./...
 
