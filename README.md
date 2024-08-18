@@ -6,5 +6,5 @@ It is a simple GO server Programm which prints out following outputs with follow
 3. localhost:8080/info.html -> It wil open a form in which you can enter your name and email address and after submiting your details it will print Your name with email 
                                 address.</br>
 It uses "fmt","logs" and "net/http" package.
-
+Hello Friends, new comment to test this new MacOs
    
